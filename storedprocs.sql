@@ -50,14 +50,15 @@
 -- Run the stored procedure
 CALL add_computer_record
 (
-    'Mega-tron',
-    'M1000',
-    500,
-    32,
+    'Atari-tron',
+    'A2000',
+    1500,
+    400,
     200,
-    '1996-01-29',
+    '1998-05-29',
     'TBD',
-    1,
-    1,
-    1
+    3,
+    10,
+    7
 );
+
